@@ -1,4 +1,4 @@
-# CSCI-566-DL
+# deep-learning-applications
 Homework assignments of CSCI 566 - Deep Learning and its applications
 
 ## Assignment - 0
